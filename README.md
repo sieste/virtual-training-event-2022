@@ -2,7 +2,7 @@ This repo contains the teaching material for the talk "Machine Learning and Neur
 
 - [Presentation slides](slides.pdf)
 - [Hopfield Network Notebook](jupyter-notebooks/Hopfield.ipynb)
-- [Weather type classification Notebook](jupyter-notebooks/Weather\ classification.ipynb)
+- [Weather type classification Notebook](jupyter-notebooks/Weather_classification.ipynb)
 
 
 
